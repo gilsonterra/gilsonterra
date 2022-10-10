@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web e Analista de Sistemas`**
 
-Analista e desenvolvedor web com conhecimentos em React, Vue, TypeScript, Scrum, PHP, Laravel, , Git e o que vier pela frente. Trabalhei em inúmeros projetos dentro e fora do Brasil. Busco sempre estudar e me aperfeiçoar profissionalmente.
+Analista e desenvolvedor web com conhecimentos em React, Vue, TypeScript, HTML, Javascript, CSS, Scrum, Flutter, PHP, Git e o que vier pela frente. Trabalhei em inúmeros projetos dentro e fora do Brasil. Busco sempre estudar e me aperfeiçoar profissionalmente.
 
    <p align="left">
       <a href="https://github.com/gilsonterra?tab=followers">

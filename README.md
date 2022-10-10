@@ -32,6 +32,4 @@ Analista e desenvolvedor web com conhecimentos em React, Vue, TypeScript, HTML, 
 <br />
 <br />
 
-![GitHub Estatísticas](https://github-readme-stats.vercel.app/api?username=gilsonterra)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonterra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonterra&layout=compact) 

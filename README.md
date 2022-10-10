@@ -4,12 +4,14 @@
 
 Analista e desenvolvedor web com conhecimentos em React, Vue, TypeScript, HTML, Javascript, CSS, Scrum, Flutter, PHP, Git e o que vier pela frente. Trabalhei em inúmeros projetos dentro e fora do Brasil. Busco sempre estudar e me aperfeiçoar profissionalmente.
 
+
    <p align="left">
       <a href="https://github.com/gilsonterra?tab=followers">
          <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/gilsonterra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gilsonterra?tab=repositories">
          <img alt="total stars" title="Total estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gilsonterra?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
 
 ### :briefcase: Linguagens e Frameworks
 

@@ -1,4 +1,4 @@
-# 🏄‍♂️ Gilson Terra
+# :computer: Gilson Terra
 
 **`Desenvolvedor Web e Analista de Sistemas`**
 
@@ -11,9 +11,7 @@ Analista e desenvolvedor web com conhecimentos em React, Vue, TypeScript, HTML, 
          <img alt="total stars" title="Total estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gilsonterra?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
-
-### 🧰 Linguagens e Frameworks
+### :briefcase: Linguagens e Frameworks
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
